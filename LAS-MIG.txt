@@ -1,0 +1,12 @@
+NORTH STUDIO – FILER FÖR GITHUB PAGES
+
+1. Packa upp ZIP-filen.
+2. Ladda upp ALLT innehåll till ditt GitHub-repository. index.html ska ligga direkt i roten, inte inne i en extra mapp.
+3. Behåll mappen assets samt mapparna home-styling, interiör-koncept, styling-casting och set-design.
+4. Publicera repositoryt med GitHub Pages. Ingen installation eller byggprocess behövs.
+
+VIKTIGT: index.html är startsidan. Eftersom webbplatsen har fyra undersidor behöver du ladda upp alla filer, inte bara index.html.
+
+Alla 27 utvalda originalbilder, typsnitt och stilmallar medföljer. Relativa länkar gör att sidan fungerar även under ett repositorynamn.
+
+Detta är fortfarande ett designförslag. Ursprungliga noindex-inställningar är bevarade, så att förslaget inte konkurrerar med kundens befintliga hemsida på Google. Vid skarp lansering på kundens domän behöver dessa inställningar uppdateras.
